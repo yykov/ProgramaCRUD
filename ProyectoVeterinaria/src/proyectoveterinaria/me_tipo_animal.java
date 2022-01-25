@@ -1,5 +1,5 @@
 //Metodo: Varios métodos de tabla Teléfono
-package proyectotelefonica;
+package proyectoveterinaria;
 
 import java.sql.*;
 import java.text.ParseException;
